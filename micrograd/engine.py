@@ -104,3 +104,4 @@ class Value:
 
     def __repr__(self):
         return f"Value(data={self.data})"
+        
